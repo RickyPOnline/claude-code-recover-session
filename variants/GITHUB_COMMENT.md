@@ -63,7 +63,7 @@ PREV_MSG_ID_BUG_CONTEXT_PATTERN='"type":"error"|"isApiErrorMessage":true|"error"
 
 ## Portable recovery skill
 
-We've packaged the full procedure as a Claude Code skill that works cross-platform (bash for Linux/Mac, PowerShell for Windows) and supports both local and SSH-remote broken sessions. It's available here: **[link to be filled in after publication]**
+We've packaged the full procedure as a Claude Code skill that works cross-platform (bash for Linux/Mac, PowerShell for Windows) and supports both local and SSH-remote broken sessions. It's available here: **https://github.com/RickyPOnline/claude-code-recover-session**
 
 The skill includes:
 - Auto-discovery of the broken session file
